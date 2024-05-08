@@ -6,6 +6,9 @@ contributor:
     alias: Buckland, A. H. (Arthur H.)
     gutenberg_agent_id: '8759'
     url: http://www.gutenberg.org/2009/agents/8759
+covers:
+- cover_type: archival
+  image_path: 73489-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Lucas, E. V. (Edward Verrall)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/818
     wikipedia: https://en.wikipedia.org/wiki/E._V._Lucas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73489#Anne-s-terrible-good-nature-b-And-other-stories-for-children
 gutenberg_issued: '2024-04-29'
 gutenberg_type: Text
 identifiers:
